@@ -1,0 +1,25 @@
+.skill-card {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  margin-right: 25px;
+}
+
+.skill-logo {
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+}
+
+.skill-text {
+  font-size: 18px;
+  text-align: center;
+  font-weight: 500;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+.skills-card {
+  display: flex;
+  flex-wrap: wrap;
+}

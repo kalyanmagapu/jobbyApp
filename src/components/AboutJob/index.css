@@ -1,0 +1,106 @@
+.link-icon {
+  height: 20px;
+  width: 20px;
+  margin: 10px;
+}
+
+.jobs-details-loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.about-job-bg {
+  background-color: #000000;
+  background-size: cover;
+  color: #ffffff;
+  height: 300vh;
+  width: 100wh;
+  padding: 20px;
+}
+.about-job-card {
+  background-color: #202020;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 20px;
+  color: #ffffff;
+}
+
+.about-text {
+  font-size: 14px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.with-logo {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0px;
+  margin-left: 10px;
+}
+
+.card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 10px;
+}
+
+.company-logo {
+  height: 75px;
+  width: 75px;
+  margin: 10px;
+}
+
+.similar-cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+.about-heading {
+  font-size: 18px;
+  margin-left: 20px;
+}
+.icon {
+  margin: 10px;
+}
+.failure-card {
+  background-color: #000000;
+  background-size: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.retry-btn {
+  background-color: #4f46e5;
+  border-radius: 8px;
+  border-style: none;
+  color: #ffffff;
+  padding: 10px;
+  height: 35px;
+  width: 100px;
+  cursor: pointer;
+  margin: 20px;
+}
+.life-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.card-skills {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.life-text {
+  width: 750px;
+  font-size: 16px;
+  padding: 10px;
+  margin: 12px;
+}
+
+.align-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: -10px;
+}

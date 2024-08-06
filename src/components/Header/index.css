@@ -1,0 +1,48 @@
+.header-bg {
+  background-color: #202020;
+  background-color: cover;
+  margin-top: -18px;
+  padding: 5px;
+  height: 75px;
+}
+
+.header-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  list-style: none;
+}
+
+.header-logo {
+  height: 30px;
+  width: 100px;
+}
+
+.logout-btn {
+  background-color: #4f46e5;
+  border-radius: 8px;
+  border-style: none;
+  text-align: center;
+  color: #ffffff;
+  height: 30px;
+  width: 100px;
+  cursor: pointer;
+  margin-right: 25px;
+}
+
+.link-card {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+}
+
+.textLink {
+  color: #ffffff;
+  font-weight: 600;
+  margin-left: 20px;
+  list-style: none;
+}
+.lists {
+  list-style: none;
+}
